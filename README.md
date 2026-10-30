@@ -9,7 +9,6 @@
 - Security Dashboard (rule-based log analysis)
 
 ## Structure
-cat /etc/nginx/sites-available/wordpress
 
 ## Security Features
 1. SSH PKI only (no password, no root)
